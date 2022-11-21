@@ -1,0 +1,41 @@
+[
+  {
+    "name":"Clam Chowder",
+    "ingredients":[
+      "Hearty Blueshell Snail",
+      "Goat Butter",
+      "Fresh Milk",
+      "Tabantha Wheat"
+    ]
+  },
+  {
+    "name":"Crab Stir-Fry",
+    "ingredients":[
+      "Any crab",
+      "Goron Spice"
+    ]
+  },
+  {
+    "name":"Salt-Grilled Crab ",
+    "ingredients":[
+      "Any crab",
+      "Rock Salt"
+    ]
+  },
+  {
+    "name":"Meat Stew",
+    "ingredients":[
+      "Raw Meat",
+      "Fresh Milk",
+      "Goat Butter",
+      "Tabantha Wheat"
+    ]
+  },
+  {
+    "name":"Glazed Seafood",
+    "ingredients":[
+      "Courser Bee Honey",
+      "Any seafood"
+    ]
+  }
+]

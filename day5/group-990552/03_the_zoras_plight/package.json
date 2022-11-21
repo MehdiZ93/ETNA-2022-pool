@@ -1,0 +1,15 @@
+{
+  "name": "03_the_zoras_plight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getShipArrivalTime.js",
+  "scripts": {
+    "start": "tsc getShipArrivalTime.ts && node getShipArrivalTime.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.5"
+  }
+}
